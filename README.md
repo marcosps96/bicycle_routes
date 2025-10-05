@@ -2,7 +2,7 @@
  
  Este é um aplicativo para React Native, construído com o Expo, que permite aos ciclistas planejar rotas de bicicleta de forma personalizada. O usuário coloca seu endereço de partida e suas preferências de rota para que o app gere um trajeto detalhado e inteligente.
 
- Funcionalidades
+ ## Funcionalidades
  Entrada de Dados: O usuário preenche seu endereço de partida completo (Rua, Número, CEP, Cidade, Estado) para definir a origem da rota.
 
  Preferências de Rota: Permite selecionar múltiplos tipos de rota, como "Evitar subidas" ou "Incluir ciclovia".
@@ -11,14 +11,14 @@
 
  Integração com IA: O aplicativo utiliza a API Gemini para processar as preferências do usuário e gerar uma rota detalhada.
 
- Tecnologias Utilizadas
+ ## Tecnologias Utilizadas
 React Native & Expo: Para o desenvolvimento da interface em Android e iOS.
 
 Gemini API: Para a geração inteligente de rotas com base nas preferências do usuário.
 
 @react-native-community/slider: Para a barra deslizante de seleção de distância.
 
- Como Rodar o Projeto
+ ## Como Rodar o Projeto
 Siga os passos abaixo para iniciar o projeto em sua máquina.
 
 Instale as dependências
