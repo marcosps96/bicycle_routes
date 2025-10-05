@@ -1,3 +1,14 @@
+Este é um aplicativo para React Native, construído com o Expo, que permite aos ciclistas planejar rotas de bicicleta de forma personalizada. O usuário coloca seu endereço de partida e suas preferências de rota para que o app gere um trajeto detalhado e inteligente.
+
+Funcionalidades
+Entrada de Dados: O usuário preenche seu endereço de partida completo (Rua, Número, CEP, Cidade, Estado) para definir a origem da rota.
+
+Preferências de Rota: Permite selecionar múltiplos tipos de rota, como "Evitar subidas" ou "Incluir ciclovia".
+
+Seleção de Distância: Uma barra deslizante permite ao usuário escolher a distância total desejada para a pedalada, de 5 a 100 km.
+
+Integração com IA: O aplicativo utiliza a API Gemini para processar as preferências do usuário e gerar uma rota detalhada.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
